@@ -1,4 +1,4 @@
-- 👋 Hello there! I’m VillagerBoyYT from YouTube
+- 👋 Hello there! I’m Villager Boy from YouTube
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning to code, remix and edit
 - My age is 11
