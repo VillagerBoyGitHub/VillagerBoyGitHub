@@ -1,15 +1,9 @@
-<!---
-- 👋 Hello there! I’m Villager Boy from YouTube
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning to code, remix and edit
---->
+# About me
 
-- 👋 Hello there! I was once Villager Boy on YouTube
-- 🧪 Owner of [SodiumNodes](https://en.sodiumnodes.org) 
-- 👀 I enjoy developing
-- 💻 My preferred programming languages are PHP, C#, Java, and Visual Basic
-
-<!---
-VillagerBoyYTGitHub/VillagerBoyYTGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*The Internet can be hell sometimes.*
+  
+- Full name: Robert Anthony Scianatico
+- 21/12/2010 (14) male
+- I was once Villager Boy on YouTube, until they banned me for no evident reason. Now I own [SodiumNodes](https://en.sodiumnodes.org).
+- I enjoy developing and improving open-source project documentation.
+- My preferred programming languages are PHP, Java, JavaScript. I'm best at PHP currently, and I'm more of a web developer.
