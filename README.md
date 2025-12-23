@@ -1,5 +1,5 @@
 <h1 align="center">About me</h1> 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=villagerboygithub)
+<img src="https://komarev.com/ghpvc/?username=VillagerBoyGithub"/>
 
 *The Internet can be hell sometimes.*
   
