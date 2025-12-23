@@ -1,5 +1,4 @@
-# About me
-<p align="center">Hello, I'm Robert.</p>
+<h1 align="center">About me</h1> 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 
 *The Internet can be hell sometimes.*
