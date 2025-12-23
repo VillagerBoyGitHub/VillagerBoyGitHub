@@ -1,5 +1,7 @@
 # About me
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
 *The Internet can be hell sometimes.*
   
 - Full name: Robert Anthony Scianatico
