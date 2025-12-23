@@ -8,3 +8,4 @@
 - I enjoy developing and improving open-source project documentation.
 - My preferred programming languages are PHP, Java, JavaScript. I'm best at PHP currently, and I'm more of a web developer.
 - Personal website: [villagerboy.xyz](https://villagerboy.xyz). Here you can find more about me.
+- [SodiumNodes on GitHub](https://github.com/SodiumNodes)
