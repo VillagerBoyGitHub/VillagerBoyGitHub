@@ -16,6 +16,7 @@
 - [SodiumNodes on GitHub](https://github.com/SodiumNodes)
 - [SodiumNodes](https://sodiumnodes.org)
 - **Gravatar**: https://gravatar.com/lookedrobob1
+- **LinkedIn**: https://www.linkedin.com/in/robert-scianatico
   
 ### Contact me
 - 📱 **WhatsApp/phone number**: +39 3773708017
