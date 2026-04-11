@@ -25,7 +25,7 @@
 **You can also contact me through my socials.**
 
 ### Socials
-- **Instagram**: https://www.instagram.com/villagerboy.rob
+- **Instagram**: https://www.instagram.com/lookedrobob
 - **YouTube**: https://youtube.com/@LookedRobob
 - **Discord**: villagerboy (DMs are off, send me a friend request)
 - **LinkedIn**: https://www.linkedin.com/in/robert-scianatico-499291394
