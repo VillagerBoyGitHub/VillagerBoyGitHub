@@ -20,7 +20,7 @@
   
 ### Contact me
 - 📱 **WhatsApp/phone number**: +39 3773708017
-- ✉️ **Email**: skittlespoopy@gmail.com (don't ask why I still use this email 😅)
+- ✉️ **Email**: vboy0749@gmail.com
 
 **You can also contact me through my socials.**
 
