@@ -4,6 +4,7 @@
 *The Internet can be hell sometimes.*
   
 - Full name: Robert Anthony Scianatico
+- IGN: LookedRobob
 - 21/12/2010 (15) male
 - Religion: Christian (Non-denominational) ✝️
 - I was once Villager Boy on YouTube, until they banned me for no evident reason. Now I own [SodiumNodes](https://en.sodiumnodes.org).
@@ -20,7 +21,7 @@
   
 ### Contact me
 - 📱 **WhatsApp/phone number**: +39 3773708017
-- ✉️ **Email**: vboy0749@gmail.com
+- ✉️ **Email**: business@villagerboy.xyz
 
 **You can also contact me through my socials.**
 
