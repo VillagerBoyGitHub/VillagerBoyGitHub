@@ -18,6 +18,7 @@
 - [SodiumNodes](https://sodiumnodes.org)
 - **Gravatar**: https://gravatar.com/lookedrobob1
 - **LinkedIn**: https://www.linkedin.com/in/robert-scianatico
+- **About.me**: https://about.me/robertanthonyscianatico
   
 ### Contact me
 - 📱 **WhatsApp/phone number**: +39 3773708017
