@@ -2,7 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=VillagerBoyGithub"/>
 
 *The Internet can be hell sometimes.*
-  
+
+My full name is Robert Anthony Scianatico and I'm the main founder and current owner, administrator and CEO of SodiumNodes. I'm 15 years old (21/12/2010), and I'm a web developer specialized in PHP, React, JavaScript and MySQL and I regularly develop PocketMine plugins. The frameworks I am mostly familiar with are Laravel and Next.js which I use for SodiumNodes' main website.
+
 - Full name: Robert Anthony Scianatico
 - IGN: LookedRobob
 - 21/12/2010 (15) male
