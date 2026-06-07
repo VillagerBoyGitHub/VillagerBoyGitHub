@@ -1,7 +1,7 @@
 <h1 align="center">About me</h1> 
 <img src="https://komarev.com/ghpvc/?username=VillagerBoyGithub"/>
 
-*Building a legacy online.*
+*Building a legacy online  is beautiful.*
 
 My full name is Robert Anthony Scianatico and I'm the main founder and current owner, administrator and CEO of SodiumNodes. I'm 15 years old (21/12/2010), and I'm a web developer specialized in PHP, React, JavaScript and MySQL and I regularly develop PocketMine plugins. The frameworks I am mostly familiar with are Laravel and Next.js which I use for SodiumNodes' main website.
 
@@ -11,8 +11,12 @@ My full name is Robert Anthony Scianatico and I'm the main founder and current o
 - Religion: Christian (Non-denominational) ✝️
 - I was once Villager Boy on YouTube, until they banned me for no evident reason. Now I own [SodiumNodes](https://en.sodiumnodes.org).
 - I enjoy developing and improving open-source project documentation.
-- My preferred programming languages are PHP, Java, JavaScript. I'm best at PHP currently, and I'm more of a web developer.
-
+- My preferred programming languages are PHP, Java, JavaScript. I'm best at PHP currently, and I'm a web and PocketMine developer.
+# Languages
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="48" alt="TypeScript logo"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" width="48" alt="PHP logo"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="48" alt="HTML logo"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" width="48" alt="Laravel logo"/>
 # Where you can find me
 
 - **Personal website**: [villagerboy.xyz](https://villagerboy.xyz). Here you can find more about me.
