@@ -13,10 +13,10 @@ My full name is Robert Anthony Scianatico and I'm the main founder and current o
 - I enjoy developing and improving open-source project documentation.
 - My preferred programming languages are PHP, Java, JavaScript. I'm best at PHP currently, and I'm a web and PocketMine developer.
 # Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="48" alt="TypeScript logo"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" width="48" alt="PHP logo"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="48" alt="HTML logo"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" width="48" alt="Laravel logo"/>
+<a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="48" alt="TypeScript logo"/></a>
+<a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" width="48" alt="PHP logo"/></a>
+<a href="https://html.spec.whatwg.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="48" alt="HTML logo"/></a>
+<a href="https://laravel.com"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" width="48" alt="Laravel logo"/></a>
 # Where you can find me
 
 - **Personal website**: [villagerboy.xyz](https://villagerboy.xyz). Here you can find more about me.
