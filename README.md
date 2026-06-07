@@ -30,7 +30,7 @@ My full name is Robert Anthony Scianatico and I'm the main founder and current o
 
 ### Socials
 <a href="https://www.instagram.com/lookedrobob"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1280px-Instagram_logo_2022.svg.png" width="48" alt="Instagram logo" /></a>
-<a href="https://youtube.com/@LookedRobob"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="48" alt="YouTube logo" /></a>
+<a href="https://youtube.com/@LookedRobob"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/500px-YouTube_play_button_square_%282013-2017%29.svg.png" width="48" alt="YouTube logo" /></a>
 - **Discord**: villagerboy (DMs are off, send me a friend request)
 - **LinkedIn**: https://www.linkedin.com/in/robert-scianatico-499291394
 
