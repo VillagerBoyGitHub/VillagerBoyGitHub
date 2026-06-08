@@ -20,9 +20,9 @@ My full name is Robert Anthony Scianatico and I'm the main founder and current o
 <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="48" alt="TypeScript logo"/></a>
 <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" width="48" alt="PHP logo"/></a>
 <a href="https://laravel.com"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" width="48" alt="Laravel logo"/></a>
-<a href="https://nextjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" width="48" alt="NextJS logo"/></a>
 <a href="https://tailwindcss.com"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" width="48" alt="TailwindCSS logo"/></a>
 <a href="https://react.dev"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/react/react-original.svg" width="48" alt="React logo"/></a>
+<a href="https://www.debian.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/debian/debian-original.svg" width="48" alt="Debian logo"/></a>
 
 # Where you can find me
 
