@@ -9,7 +9,7 @@ My full name is Robert Anthony Scianatico and I'm the main founder and current o
 - IGN: LookedRobob
 - 21/12/2010 (15) male
 - Religion: Christian (Non-denominational) ✝️
-- I was once Villager Boy on YouTube, until they banned me for no evident reason. Now I own [SodiumNodes](https://en.sodiumnodes.org).
+- Former content creator. Now I own [SodiumNodes](https://en.sodiumnodes.org).
 - I enjoy developing and improving open-source project documentation.
 - My preferred programming languages are PHP, Java, JavaScript. I'm best at PHP currently, and I'm a web and PocketMine developer.
 
