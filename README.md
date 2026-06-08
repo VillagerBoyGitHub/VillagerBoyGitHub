@@ -22,9 +22,9 @@ My full name is Robert Anthony Scianatico and I'm the main founder and current o
 <a href="https://www.mysql.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/mysql/mysql-original.svg" width="48" alt="MySQL logo"/></a>
 <a href="https://laravel.com"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" width="48" alt="Laravel logo"/></a>
 <a href="https://livewire.laravel.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/livewire/livewire-original.svg" width="48" alt="Livewire logo"/></a>
-<a href="https://www.debian.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nginx/nginx-original.svg" width="48" alt="NGINX logo"/></a>
+<a href="https://nginx.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nginx/nginx-original.svg" width="48" alt="NGINX logo"/></a>
 <a href="https://www.npmjs.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/npm/npm-original.svg" width="48" alt="NPM logo"/></a>
-<a href="https://nodejs.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nodejs/nodejs-original.svg" width="48" alt="NpdeJS logo"/></a>
+<a href="https://nodejs.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nodejs/nodejs-original.svg" width="48" alt="NodeJS logo"/></a>
 <a href="https://react.dev"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/react/react-original.svg" width="48" alt="React logo"/></a>
 <a href="https://nextjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" width="48" alt="Next.js logo"/></a>
 <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="48" alt="TypeScript logo"/></a>
