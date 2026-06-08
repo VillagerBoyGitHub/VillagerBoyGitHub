@@ -8,7 +8,7 @@ My full name is Robert Anthony Scianatico and I'm the main founder and current o
 - Full name: Robert Anthony Scianatico
 - IGN: LookedRobob
 - 21/12/2010 (15) male
-- Religion: Christian (Non-denominational) ✝️
+- Working on: [SodiumNodes](https://www.sodiumnodes.org/home)
 - Former content creator. Now I own [SodiumNodes](https://en.sodiumnodes.org).
 - I enjoy developing and improving open-source project documentation.
 - My preferred programming languages are PHP, Java, JavaScript. I'm best at PHP currently, and I'm a web and PocketMine developer.
@@ -30,6 +30,14 @@ My full name is Robert Anthony Scianatico and I'm the main founder and current o
 <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="48" alt="TypeScript logo"/></a>
 <a href="https://tailwindcss.com"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" width="48" alt="TailwindCSS logo"/></a>
 <a href="https://www.debian.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/debian/debian-original.svg" width="48" alt="Debian logo"/></a>
+
+# Projects
+### My web development projects are currently private.
+- [TNTTag](https://github.com/VillagerBoyGitHub/TNTTag)
+- [SimpleProfileSystem](https://github.com/VillagerBoyGitHub/SimpleProfileSystem)
+- [PocketUtils](https://github.com/VillagerBoyGitHub/PocketUtils)
+- [WebTools](https://github.com/VillagerBoyGitHub/WebTools)
+More on [my portfolio](https://www.villagerboy.xyz/portfolio/).
 
 # Where you can find me
 
