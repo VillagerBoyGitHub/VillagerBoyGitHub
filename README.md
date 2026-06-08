@@ -14,6 +14,7 @@ My full name is Robert Anthony Scianatico and I'm the main founder and current o
 - My preferred programming languages are PHP, Java, JavaScript. I'm best at PHP currently, and I'm a web and PocketMine developer.
 
 # Languages & Tools
+### Everything I use in development which I'm familiar with.
 <a href="https://html.spec.whatwg.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="48" alt="HTML logo"/></a>
 <a href="https://nextjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" width="48" alt="CSS logo"/></a>
 <a href="https://www.w3schools.com/js"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/javascript/javascript-original.svg" width="48" alt="JavaScript logo"/></a>
@@ -25,6 +26,7 @@ My full name is Robert Anthony Scianatico and I'm the main founder and current o
 <a href="https://tailwindcss.com"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" width="48" alt="TailwindCSS logo"/></a>
 <a href="https://react.dev"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/react/react-original.svg" width="48" alt="React logo"/></a>
 <a href="https://www.debian.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/debian/debian-original.svg" width="48" alt="Debian logo"/></a>
+
 # Where you can find me
 
 - **Personal website**: [villagerboy.xyz](https://villagerboy.xyz). Here you can find more about me.
