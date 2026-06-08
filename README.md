@@ -15,15 +15,17 @@ My full name is Robert Anthony Scianatico and I'm the main founder and current o
 
 # Languages & Tools
 ### Everything I use in development which I'm familiar with.
-<a href="https://html.spec.whatwg.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="48" alt="HTML logo"/></a>
+<a href="https://html.spec.whatwg.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="48" alt="HTML logo"/></a>
 <a href="https://www.w3schools.com/css"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/css3/css3-original.svg" width="48" alt="CSS logo"/></a>
 <a href="https://www.w3schools.com/js"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/javascript/javascript-original.svg" width="48" alt="JavaScript logo"/></a>
 <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" width="48" alt="PHP logo"/></a>
 <a href="https://www.mysql.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/mysql/mysql-original.svg" width="48" alt="MySQL logo"/></a>
 <a href="https://laravel.com"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" width="48" alt="Laravel logo"/></a>
 <a href="https://www.debian.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nginx/nginx-original.svg" width="48" alt="NGINX logo"/></a>
+<a href="https://www.npmjs.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/npm/npm-original.svg" width="48" alt="NPM logo"/></a>
+<a href="https://nodejs.org/"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nodejs/nodejs-original.svg" width="48" alt="NpdeJS logo"/></a>
 <a href="https://react.dev"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/react/react-original.svg" width="48" alt="React logo"/></a>
-<a href="https://nextjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" width="48" alt="NextJS logo"/></a>
+<a href="https://nextjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" width="48" alt="Next.js logo"/></a>
 <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="48" alt="TypeScript logo"/></a>
 <a href="https://tailwindcss.com"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" width="48" alt="TailwindCSS logo"/></a>
 <a href="https://www.debian.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/debian/debian-original.svg" width="48" alt="Debian logo"/></a>
