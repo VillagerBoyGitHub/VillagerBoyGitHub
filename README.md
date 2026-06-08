@@ -33,9 +33,8 @@ My full name is Robert Anthony Scianatico and I'm the main founder and current o
 
 # Where you can find me
 
-- **Personal website**: [villagerboy.xyz](https://villagerboy.xyz). Here you can find more about me.
-- [SodiumNodes on GitHub](https://github.com/SodiumNodes)
-- [SodiumNodes](https://sodiumnodes.org)
+- **Personal website**: https://www.villagerboy.xyz. Here you can find more about me.
+- **SodiumNodes**: https://www.sodiumnodes.org
 - **Gravatar**: https://gravatar.com/lookedrobob1
 - **LinkedIn**: https://www.linkedin.com/in/robert-scianatico
 - **About.me**: https://about.me/robertanthonyscianatico
