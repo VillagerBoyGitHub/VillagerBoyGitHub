@@ -37,7 +37,7 @@ My full name is Robert Anthony Scianatico and I'm the main founder and current o
 - [SimpleProfileSystem](https://github.com/VillagerBoyGitHub/SimpleProfileSystem)
 - [PocketUtils](https://github.com/VillagerBoyGitHub/PocketUtils)
 - [WebTools](https://github.com/VillagerBoyGitHub/WebTools)
-More on [my portfolio](https://www.villagerboy.xyz/portfolio/).
+More on [my portfolio](https://www.villagerboy.xyz/portfolio).
 
 # Where you can find me
 
@@ -48,7 +48,6 @@ More on [my portfolio](https://www.villagerboy.xyz/portfolio/).
 - **About.me**: https://about.me/robertanthonyscianatico
   
 ### Contact me
-- 📱 **WhatsApp/phone number**: +39 3773708017
 - ✉️ **Email**: business@villagerboy.xyz
 
 **You can also contact me through my socials.**
