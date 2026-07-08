@@ -3,13 +3,13 @@
 
 *Building a legacy online is beautiful.*
 
-My full name is Robert Anthony Scianatico and I'm the main founder and current owner, administrator and CEO of SodiumNodes. I'm 15 years old (21/12/2010), and I'm a web developer specialized in PHP, React, JavaScript and MySQL and I regularly develop PocketMine plugins. The frameworks I am mostly familiar with are Laravel and Next.js which I use for SodiumNodes' main website.
+My full name is [Robert Anthony Scianatico](https://www.villagerboy.xyz/) and I'm the main founder and current owner, administrator and CEO of SodiumNodes. I'm 15 years old (21/12/2010), and I'm a web developer specialized in PHP, React, JavaScript and MySQL and I regularly develop PocketMine plugins. The frameworks I am mostly familiar with are Laravel and Next.js which I use for SodiumNodes' main website. [Read more about LookedRobob](https://www.villagerboy.xyz/)
 
 - Full name: Robert Anthony Scianatico
 - IGN: LookedRobob
 - 21/12/2010 (15) male
-- Working on: [SodiumNodes](https://www.sodiumnodes.org/home)
-- Former content creator. Now I own [SodiumNodes](https://en.sodiumnodes.org).
+- Working on: [SodiumNodes](https://www.sodiumnodes.org)
+- Former content creator. Now I own [SodiumNodes](https://www.sodiumnodes.org).
 - I enjoy developing and improving open-source project documentation.
 - My preferred programming languages are PHP, Java, JavaScript. I'm best at PHP currently, and I'm a web and PocketMine developer.
 
